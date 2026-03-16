@@ -236,9 +236,9 @@ Password → (none required)
 
 | Member | Student ID | Role | Key Contributions |
 |---|---|---|---|
-| Shimon Pandey | S25CSEU0993 | 🎖️ Team Lead |MySQL schema design, service layer, prepared statements, DB connection management |
-| Deepak Bisht | S25CSEU0986 | 🎨 UI/UX Lead | Complete Swing interface design, login system, dashboard, payment QR dialog, dark theme |
-| Adityan | S25CSEU0977 | 🗄️ Database Engineer | System architecture, project coordination, JDBC integration, final testing & presentation |
+| Shimon Pandey | S25CSEU0993 | 🎖️ Team Lead (database) |MySQL schema design, service layer, prepared statements, DB connection management |
+| Deepak Bisht | S25CSEU0986 | 🎨 UI | Complete Swing interface design, login system, dashboard, payment QR dialog, dark theme |
+| Adityan | S25CSEU0977 | 🗄️ Backend| System architecture, project coordination, JDBC integration, final testing & presentation |
 
 ---
 
