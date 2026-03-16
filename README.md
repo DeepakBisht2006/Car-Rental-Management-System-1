@@ -236,19 +236,25 @@ Password → (none required)
 
 | Member | Student ID | Role | Key Contributions |
 |---|---|---|---|
-| Shimon Pandey | S25CSEU0993 | 🎖️ Team Lead | System architecture, project coordination, JDBC integration, final testing & presentation |
+| Shimon Pandey | S25CSEU0993 | 🎖️ Team Lead |MySQL schema design, service layer, prepared statements, DB connection management |
 | Deepak Bisht | S25CSEU0986 | 🎨 UI/UX Lead | Complete Swing interface design, login system, dashboard, payment QR dialog, dark theme |
-| Adityan | S25CSEU0977 | 🗄️ Database Engineer | MySQL schema design, service layer, prepared statements, DB connection management |
+| Adityan | S25CSEU0977 | 🗄️ Database Engineer | System architecture, project coordination, JDBC integration, final testing & presentation |
 
 ---
 
 ## 🔮 Future Enhancements
 
-- 🌐 **Web Interface** — PHP/HTML website version
+- 🌐 **Web Interface** — PHP/HTML website version/More interactive UI
+- 🎗️ **Dashboard stats** — admin home shows total revenue, most rented car, active rentals count
+- 🛻 **Car categories** — SUV, Sedan, Hatchback etc. with filter option
+- 🔍 **Change admin password** — from inside the app settings
+- ⚠️ **Rental duration warning** — alert if customer is overdue on return
+- 🔐 **User Authentication** - Login system with admin panel
 - 📧 **Email Receipts** — Send rental confirmation to customer email
 - 📊 **Revenue Reports** — Admin dashboard with earnings analytics
 - 🔍 **Search & Filter** — Search cars by brand, model, or price
 - 🖼️ **Car Images** — Add photos for each vehicle
+- 🌍 **Mobile number by countries** - have mutiple country supported real mobile number system
 - 💰 **Real Payment Gateway** — Razorpay/PayPal integration
 - 📱 **Mobile App** — Android version using Java
 
